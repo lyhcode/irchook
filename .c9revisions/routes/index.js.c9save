@@ -1,0 +1,3 @@
+{"ts":1357895950666,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\n/*\n * GET home page.\n */\n\nexports.index = function(req, res){\n  res.render('index', { title: 'Express' })\n};"]],"start1":0,"start2":0,"length1":0,"length2":109}]],"length":109}
+{"contributors":[],"silentsave":false,"ts":1357896041769,"patch":[[{"diffs":[[0,"s' })\n};"],[1,"\n\nexpress.post = function(req, res) {\n    res.send('hello');\n};"]],"start1":101,"start2":101,"length1":8,"length2":71}]],"length":172,"saved":false}
+{"ts":1357896065706,"patch":[[{"diffs":[[0,"\n};\n\nexp"],[-1,"res"],[1,"ort"],[0,"s.post ="]],"start1":106,"start2":106,"length1":19,"length2":19}]],"length":172,"saved":false}
